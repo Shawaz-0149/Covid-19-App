@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="coronavirus_covid_19_is_an_ninfectious_disease_caused_by_a_newly_ndiscoverd_coronavirus">Coronavirus COVID-19 is an\ninfectious disease caused by a newly\ndiscoverd coronavirus</string>
+    <string name="all_you_nedd_nknow_about_covid_19">All You Nedd\nKnow About Covid-19</string>
+    <string name="start_now">Start Now</string>
+    <string name="todo">TODO</string>
+    <string name="emergency">Emergency</string>
+    <string name="call_now">Call Now</string>
+    <string name="guide">Guide</string>
+    <string name="covid_19">COVID-19</string>
+    <string name="how_to_know_if_i_have_covid_19">How to know if I have covid-19</string>
+    <string name="covid_19_guide">Covid-19 Guide</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="indications">Indications</string>
+    <string name="prevention">Prevention</string>
+    <string name="contagion">Contagion</string>
+    <string name="high_fever">High Fever</string>
+    <string name="_37_40">37*/40*</string>
+    <string name="dry_cough">Dry Cough</string>
+    <string name="uncontrollable">Uncontrollable</string>
+    <string name="fatigue">Fatigue</string>
+    <string name="dream">Dream</string>
+    <string name="learn_more">Learn More</string>
+    <string name="be_aware_nfrom_covid_19">Be aware\nFrom Covid-19</string>
+</resources>
